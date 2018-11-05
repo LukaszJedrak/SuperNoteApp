@@ -6,7 +6,7 @@ IMPORTANT!
 
 If you want to use this app you will need to configure your own SQL server.
 
-In project Web.config file you have to add your SQL server.
+In project Web.config file you have to add your SQL Server ConnectionString.
 
 <connectionStrings>
     <add name="dbconnection" connectionString="Data Source=Enter your SQL server name here;
